@@ -9,7 +9,7 @@ labels:
   - Coding
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/coding.jpg">
 
 Coding is hard. It is a skill that needs to be refined and redone multiple times. One main reason for this is because there are multiple coding languages. Just like learning a real life language (or learning anything new for that matter), our brains have to work hard to create new connections. At first, this is hard because we aren’t used to it, but as time progresses and we use that connection more and more, hard turns into manageable, and manageable turns into easy. But I think I can speak for all coders that have mastered a coding language when I say that I feel proud of the journey that it took me to learn that language, no matter how hard it gets. I am glad that I wrote “Hello World” as a declaration of the beginning of a long and arduous journey. Me learning Javascript is just another stepping stone on that journey.
 
