@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/smart-questions.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/smart-questions.jpg">
 
 In the age of the internet where there are libraries of information accessible within our fingertips, all we have to do is ask. But the truth remains when asking a question online, not all questions are created equally. Asking questions is a skill, some people are good at it and ask smart questions, while others ask very dumb questions. Generally a smart question will likely get more helpful answers than a dumb question. Learning to ask smart and good questions is a very handy skill to have, especially for programmers, because when writing lots of code, chances are that you will get stuck on something that no matter how hard you try, you can’t solve it on your own. Afterall, if you are writing hundreds of lines of code, there might be some unforeseen interactions between the code that you might not be aware of. If you ask a dumb question, then people will be less inclined to answer it than if you were to ask a smart one.
 
