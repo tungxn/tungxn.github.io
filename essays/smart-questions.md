@@ -27,10 +27,10 @@ Is this possible?
 ```
 
 There are multiple reasons why this question is a bad question. The most obvious answer is that it is a very easily Googleable question. I was able to find the answer quite easily by using the search term “string split python” and clicking on the first search result. This shows that the person that is asking the question was quite lazy and didn’t even consider other options of finding the answer on their own. The next reason is because this question has been asked and answered already by someone else. This shows again that the person who asked this question was too lazy to search to see if anyone else had asked the same question on StackOverflow and went straight to asking their question without putting any thought into the matter. The only answer that they eventually got is basically: a link to the python documentation and an example of how to use string.split(). 
-Link to [question 1](https://stackoverflow.com/questions/32191198/how-can-i-split-a-pipe-separated-string-into-a-list)
+Link to [question 1](https://stackoverflow.com/questions/32191198/how-can-i-split-a-pipe-separated-string-into-a-list).
 
 The next question is titled “Why is processing a sorted array faster than processing an unsorted array?” The user then copy and pasted the code that he used in C++ and Java where it goes through a sorted array and a unsorted one where order shouldn't matter and the time it took to finish the tasks.
-Link to [question 2](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
+Link to [question 2](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array).
  
 To me, this is a smarter question than the previous one. First of all, this isn’t Googleable because it mainly talks about the interaction of the code rather than what some code does or how to code something. This code also shows what the person who is asking the question did so others can copy and paste his code and experience it for themselves. When going further into details about their question, the asker is very concise; none of his words are wasted. This question has a total of 29 answers with the best one using an analogy to better frame the question and the resulting answer.
 
