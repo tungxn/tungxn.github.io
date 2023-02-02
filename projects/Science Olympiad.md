@@ -12,6 +12,9 @@ summary: "In high school, I joined Science Olympiad and participated in many eve
 ---
 
 <hr>
+<img width="200px" 
+     class="rounded float-start pe-4" 
+     src="../img/Science_Olympiad2.png" >
 
 ## What is Science Olympiad?
 In my sophomore year of high school, I joined Science Olympiad, a science competition that pits students against other students of different schools. It consists of multiple science events that rotate every few years. The events include astronomy, chem-lab, mousetrap vehicle, thermodynamics, ornithology, model bridge building, and many more. Each student would be put in around 3 to 4 events to compete. Science Olympiad is a place for students to showcase their skills and hard work in many events that they participated in. It is also a place to learn and try new things.
