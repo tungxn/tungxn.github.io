@@ -12,10 +12,10 @@ summary: "In high school, I joined Science Olympiad and participated in many eve
 ---
 
 <hr>
-# What is Science Olympiad?
+## What is Science Olympiad?
 Science Olympiad is a science competition against other schools in multiple science events.
 
 
 <hr>
 
-Source: [Science Olympiad](https://store.soinc.org/us/page/Welcome)
+Source: [Science Olympiad](https://www.soinc.org)
