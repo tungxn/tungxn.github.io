@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/Science_Olympiad.png
 title: "Science Olympiad"
 date: 2021
 published: true
@@ -18,4 +18,4 @@ Science Olympiad is a science competition against other schools in multiple scie
 
 <hr>
 
-Source: [Science Olympiad](https://www.soinc.org)
+Source: [Science Olympiad main home page](https://www.soinc.org)
