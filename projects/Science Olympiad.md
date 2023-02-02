@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Science_Olympiad.png
+image: img/Science_Olympiad2.png
 title: "Science Olympiad"
 date: 2021
 published: true
