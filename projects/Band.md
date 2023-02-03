@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: img/Tuba.png
-title: "Math Team"
+title: "Learning to Quit"
 date: 2021
 published: true
 labels:
   - Extracurricular Activities
   - Competition
-summary: "I joined Math Team in high school freshman year."
+summary: "I quit band after doing it for 3 years. 2 years in middle school and 1 year in high school."
 ---
 
 <hr>
