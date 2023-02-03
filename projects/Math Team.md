@@ -8,6 +8,7 @@ published: true
 labels:
   - Extracurricular Activities
   - Competition
+  - Math
 summary: "I joined Math Team in high school freshman year."
 ---
 
