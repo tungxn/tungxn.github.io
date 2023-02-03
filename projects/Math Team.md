@@ -25,4 +25,4 @@ Throughout every year in high school, I would remain in the math team. Despite t
 	
 <hr>
 
-Source: [Oahu Mathamatic Leauge homepage]([https://www.soinc.org](https://www.oahumath.org/home))
+Source: [Oah'u Mathematics League home page](https://www.oahumath.org/home)
