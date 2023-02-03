@@ -8,6 +8,7 @@ published: true
 labels:
   - Extracurricular Activities
   - Competition
+  - Science
 summary: "In high school, I joined Science Olympiad and participated in many events."
 ---
 
