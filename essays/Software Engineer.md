@@ -9,6 +9,6 @@ labels:
   - Software Engineer
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/software engineer.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/software engineer.png">
 
 
