@@ -12,7 +12,7 @@ summary: "I quit band after doing it for 3 years. 2 years in middle school and 1
 ---
 
 <hr>
-<img width="500px" 
+<img width="400px" 
      class="rounded float-start pe-4" 
      src="../img/Tuba.png" >
 
