@@ -7,6 +7,7 @@ date: 2021
 published: true
 labels:
   - Extracurricular Activities
+  - Music
 summary: "I quit band after doing it for 3 years. I did band for 2 years in middle school and 1 year in high school."
 ---
 
