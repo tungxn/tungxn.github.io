@@ -11,7 +11,7 @@ labels:
   - ESLint
 ---
 
-<img width="600px" class="rounded mx-auto d-block" src="../img/coding standards.png">
+<img width="600px" class="rounded mx-auto d-block" src="../img/coding stanard.jpg">
 # Why use it?
    Rules and regulations. It might seem boring and tedious but no one can deny its importance. After all, if it wasn't important, then why would people spend time making it? I understand that some treat coding standards as more like an obstacle than a tool. Afterall, they would think, if my code works in the end, why worry about how good it looks? But to me, that is a narrow way of thinking. For one reason, it would be a good habit to keep your code neat. If in the future there is a need to edit a code that you wrote a long time ago, you would need to quickly understand what you wrote in the past and if your code is messy, then it would take more time for you to understand it. Another reason is that if your job is coding, then you are most likely not working on it alone. You would be a detriment to the team if the rest of your team can’t understand what you wrote. If a company heavily relies on coding, then there is a high likelihood that they make their employees use an existing coding standard or they make their own as the first priority. Aterall, imagine how difficult it would be if everyone in that company code differently. The new employees that have to edit past code would have trouble understanding the code. This is the reason why coding standards exist. 
 # A better programmer
