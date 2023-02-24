@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "A Frameworks of learning"
+title: "A Frameworks of Learning"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-23
 published: true
