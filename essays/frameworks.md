@@ -10,7 +10,7 @@ labels:
   - Bootstrap 5
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/UI-framework-example.png">
+<img width="450px" class="rounded float-start pe-4" src="../img/UI-framework-example.png">
 
 ## What are UI frameworks?
 Before this class, I have never experienced what UI frameworks even are. Heck, before this class, I didn’t have any experience with the basics of html or css so how am I supposed to know about anything that builds off it? Now that I get some hands-on experience working with a UI framework called Bootstrap 5, I understand why it is useful and more convenient than just using regular html and css. So what are UI frameworks in the first place? Well, UI frameworks are basically a collection of prebuilt classes or functions that you can use to simplify your layout and your code in html. Overall, UI frameworks help us save time and make the website more pleasing. The image shown is one of my latest website that I recreated using Bootstrap 5.
