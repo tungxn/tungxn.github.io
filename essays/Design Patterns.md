@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "A Recipe for Success"
+title: How Does Recipes and a Newspaper Relate to Design Patterns"
 # All dates must be YYYY-MM-DD format!
 date: 2023-04-27
 published: true
