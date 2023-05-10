@@ -25,7 +25,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS terminal", "Eclipse", "Git/GitHub" ]
+      "keywords": [ "MacOS terminal", "Eclipse", "Git/GitHub", "IntelliJ IDEA" ]
     }
   ],
   "education": [
@@ -36,6 +36,12 @@
       "startDate": "2021-09-05",
       "endDate": "Present",
       "courses": [
+        "ICS 111 (Intro to Computer Science 1)",
+        "ICS 141 (Discrete Math 1)",
+        "ICS 211 (Intro to Computer Science 2)",
+        "ICS 241 (Discrete Math 2)",
+        "ICS 311 (Algorithms)",
+        "ICS 314 (Software Engineering)",
       ]
     }
   ],
@@ -52,6 +58,12 @@
       "date": "2021",
       "awarder": "McKinley High School",
       "summary": "My high school gpa was over 4.0."
+    },
+    {
+      "title": "Dean's List",
+      "date": "2022",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Awarded to students with a GPA of 3.5 or higher."
     }
   ],
   "references": [
