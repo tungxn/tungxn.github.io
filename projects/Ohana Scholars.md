@@ -6,9 +6,8 @@ title: "Ohana Scholars"
 date: 2021
 published: true
 labels:
-  - Extracurricular Activities
-  - Competition
-  - Science
+  - Web Application
+  - UH Manoa
 summary: "In my fourth semester of college, I help created a web application named Ohana Scholars."
 ---
 
