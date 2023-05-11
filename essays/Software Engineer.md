@@ -9,7 +9,7 @@ labels:
   - Software Engineer
 ---
 
-<img width="800px" class="rounded center pe-4" src="../img/software engineer.png">
+<img width="500px" class="rounded center pe-4" src="../img/software engineer.png">
 
 ## What Even Is a Software Engineer?
 What is the difference between a software engineer and a programmer? They sound like they do the same thing: create code, so why the different terminology? A quick google search would show many different answers and results but most websites loosely define them in terms of scope. Software engineers oversee the whole system and the development process while programmers focus on a single task at a time. 
