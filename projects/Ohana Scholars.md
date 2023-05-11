@@ -17,16 +17,16 @@ summary: "In my fourth semester of college, I help created a web application nam
      src="../img/ohana-scholars-homepage.png" >
 
 ## What is Ohana Schoolars?
-In my fourth semester of college, I help create a web application named Ohana Scholars with  Alden Paroni, Audrey Soares, Mark Burgess, and Christopher Pascual. Ohana Scholars’ main purpose is to schedule study groups for its users. It is an online application that allows users to sign in, create a profile, and create or join a study session. The application would then send a confirmation email to the registered email address. 
+In my fourth semester of college, I help create a web application named Ohana Scholars with  [Alden Paroni](https://aldenparoni.github.io), [Audrey Soares](https://audreysoares.github.io), [Mark Burgess](https://crepesalot.github.io), and [Christopher Pascual](https://caspascual.github.io). Ohana Scholars’ main purpose is to schedule study groups for its users. It is an online application that allows users to sign in, create a profile, and create or join a study session. The application would then send a confirmation email to the registered email address. 
 
 ## How I Contributed
 For this project, I made the create profile page and the edit profile page, improved upon the list user admin page, and created the automatic email confirmation system (only works for at most 5 selected users because I am using the free version of an application called Mailgun). 
 
-<img width="400px" 
+<img width="900px" 
      class="float-left" 
      src="../img/ohana-scholars-create-profile.png" >
      
-<img width="400px" 
+<img width="900px" 
      class="float-left" 
      src="../img/email-example.jpg" >
      
