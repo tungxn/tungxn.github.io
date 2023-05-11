@@ -13,8 +13,8 @@ summary: "In my fourth semester of college, I help created a web application nam
 ---
 
 <hr>
-<img width="200px" 
-     class="" 
+<img width="900px" 
+     class="rounded mx-auto d-block" 
      src="../img/ohana-scholars-homepage.png" >
 
 ## What is Ohana Schoolars?
