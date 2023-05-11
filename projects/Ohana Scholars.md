@@ -23,6 +23,14 @@ In my fourth semester of college, I help create a web application named Ohana Sc
 ## How I Contributed
 For this project, I made the create profile page and the edit profile page, improved upon the list user admin page, and created the automatic email confirmation system (only works for at most 5 selected users because I am using the free version of an application called Mailgun). 
 
+<img width="400px" 
+     class="rounded float-left" 
+     src="../img/ohana-scholars-homepage.png" >
+     
+<img width="400px" 
+     class="rounded float-left" 
+     src="../img/ohana-scholars-homepage.png" >
+     
 ## What I Learned
 One lesson I’ve learned from working on this project is how important it is to get help from others. When I am stuck on a particular problem for a long time, I find it easier to have a fresh set of eyes to look at the problem and can spot things that I overlooked. A new set of perspectives could go a long way.
 
