@@ -4,7 +4,7 @@ type: project
 image: img/Tuba.png
 title: "Learning to Quit"
 date: 2021
-published: true
+published: false
 labels:
   - Extracurricular Activities
   - Music
