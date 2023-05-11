@@ -36,4 +36,4 @@ One lesson I’ve learned from working on this project is how important it is to
 
 <hr>
 
-Source: [Science Olympiad main home page](https://www.soinc.org)
+[Ohana Scholar project home page](https://ohana-scholars.github.io)
