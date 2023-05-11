@@ -25,11 +25,11 @@ For this project, I made the create profile page and the edit profile page, impr
 
 <img width="400px" 
      class="rounded float-left" 
-     src="../img/ohana-scholars-homepage.png" >
+     src="../img/ohana-scholars-create-profile.png" >
      
 <img width="400px" 
      class="rounded float-left" 
-     src="../img/ohana-scholars-homepage.png" >
+     src="../img/email-example.jpg" >
      
 ## What I Learned
 One lesson I’ve learned from working on this project is how important it is to get help from others. When I am stuck on a particular problem for a long time, I find it easier to have a fresh set of eyes to look at the problem and can spot things that I overlooked. A new set of perspectives could go a long way.
