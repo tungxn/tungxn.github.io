@@ -35,4 +35,4 @@ One lesson I’ve learned from working on this project is how important it is to
 
 <hr>
 
-[Ohana Scholar project home page](https://ohana-scholars.github.io)
+To learn more, visit [Ohana Scholar project home page](https://ohana-scholars.github.io).
