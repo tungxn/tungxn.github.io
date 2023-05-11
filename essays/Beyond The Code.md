@@ -22,3 +22,4 @@ Coding standards are just a consistent way of writing code. This makes your code
 When I first learned about design patterns in computer science, it was a bit confusing. In simplest terms, design patterns are just a solution to a problem that has been refined over generations through our predecessor’s trial and error. Essentially, design patterns taught me that I don’t have to reinvent the wheel. If someone else already made an efficient solution to a problem, then I could just use their solution or somehow rework my problem to be able to use that solution. 
 
 ## Applying Lessons to More Than Just Coding
+l
