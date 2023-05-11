@@ -28,7 +28,7 @@ For this project, I made the create profile page and the edit profile page, impr
      src="../img/ohana-scholars-create-profile.png" >
      
 <img width="400px" 
-     class="rounded float-left" 
+     class="rounded" 
      src="../img/email-example.jpg" >
      
 ## What I Learned
