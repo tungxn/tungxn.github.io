@@ -23,11 +23,11 @@ In my fourth semester of college, I help create a web application named Ohana Sc
 For this project, I made the create profile page and the edit profile page, improved upon the list user admin page, and created the automatic email confirmation system (only works for at most 5 selected users because I am using the free version of an application called Mailgun). 
 
 <img width="400px" 
-     class="rounded float-left" 
+     class="float-left" 
      src="../img/ohana-scholars-create-profile.png" >
      
 <img width="400px" 
-     class="rounded" 
+     class="float-left" 
      src="../img/email-example.jpg" >
      
 ## What I Learned
