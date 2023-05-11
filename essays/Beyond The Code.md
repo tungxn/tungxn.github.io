@@ -11,7 +11,7 @@ labels:
   - Coding Standards
 ---
 
-<img width="900px" class="rounded center" src="../img/coding_world.jpg">
+<img width="900px" class="rounded mx-auto d-block" src="../img/coding_world.jpg">
 
 As the semester draws to a close, it is always a good practice to recount the things I’ve learned this semester. One of the more interesting courses that I took this spring semester at UH Manoa is ICS 314, Software Engineering. This course taught me many new things not only about how to design a web application but also lessons that could be applied beyond the scope of coding. Some examples that I remember fondly are coding standards and design patterns.
 
