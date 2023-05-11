@@ -10,7 +10,7 @@ labels:
   - Ohana Schoolars
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/recipes-pic.jpg">
+<img width="500px" class="rounded float-start pe-4" src="../img/recipes-pic.jpg">
 
 ## A Recipe for Success
 For me, design patterns are a lot like cooking recipes. Way back in the beginning, our predecessors would eat the animals or plants that they hunted and gathered raw. This is not only very energy inefficient, as raw meat takes more time and energy to break down than the cooked meat we eat today, but it is also dangerous because of the risk of getting sick and possibly dying from bacteria and parasites on the meat. Over time, people began to experiment with their meals. Maybe the caveman was looking to try out new ways of eating because he was bored. Or maybe it was a result of accidentally leaving meat too close to the fire, forgetting it, eating it anyway, and finding it way more delicious than eating it raw (I can only assume as I have never tried meat raw). Afterward, he would tell his friends and thus the first recipe was born. 
