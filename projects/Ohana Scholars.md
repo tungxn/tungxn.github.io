@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/ohana-scholars-logo.png
 title: "Ohana Scholars"
-date: 2021
+date: 2023
 published: true
 labels:
   - Web Application
